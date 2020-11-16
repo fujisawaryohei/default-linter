@@ -6,11 +6,12 @@
   },
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  },
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
+  // Vscode-pluginのPrettier
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "[typescript]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // }
 }
 
 
