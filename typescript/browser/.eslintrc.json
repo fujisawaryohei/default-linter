@@ -18,6 +18,18 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "prettier/prettier": ["error", {
+            "printWidth": 120,
+            "singleQuote": true,
+            "trailingComma": "none",
+            "tabWidth": 2,
+            "useTabs": false,
+            "semi": false,
+            "jsxSingleQuote": true,
+            "arrowParens": "avoid",
+            "bracketSpacing": true,
+            "jsxBracketSameLine": false
+        }]
     }
 }
 
